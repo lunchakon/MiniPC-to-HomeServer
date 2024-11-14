@@ -32,3 +32,8 @@ Here are some popular services you might want to run on your home server:
 - Networking: Set up a static IP address for your server and configure your router's firewall to allow access to the necessary ports.
 - Remote Access: Use SSH to remotely access your server.
 - Monitoring: Use tools like htop and top to monitor your server's resource usage.
+
+
+## Network Setup : 
+ - Wireguard  Check out this explaination : https://www.procustodibus.com/blog/2021/01/wireguard-endpoints-and-ip-addresses/
+
