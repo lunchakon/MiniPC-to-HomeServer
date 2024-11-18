@@ -27,3 +27,9 @@ For a balanced approach, Ubuntu Server is a great option. It offers a command-li
 ## Network Setup : 
  - Wireguard  Check out this explaination : https://www.procustodibus.com/blog/2021/01/wireguard-endpoints-and-ip-addresses/
 
+## Dashboard to use 
+Homarr: Homarr GitHub
+Dashy: Dashy GitHub
+Heimdall: Heimdall GitHub
+Organizr: Organizr GitHub
+Flame: Flame GitHub
